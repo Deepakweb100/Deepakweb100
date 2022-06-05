@@ -1,16 +1,14 @@
 ### Hello Everyone , I'm Deepak Roy . U can also call me Deepakweb100.
 
 
-**Deepakweb100/Deepakweb100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web frontend development
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web development.
+- 🌱 I’m currently learning C++ with data structures and algorithms.
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about HTML, CSS, JAVASCRIPT , REACT , C++ , PYTHON 
+- 📫 You can reach me by : "roydeepak695@gmail.com" 
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
