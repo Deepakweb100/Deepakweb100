@@ -1,8 +1,5 @@
 ### Hello Everyone , I'm Deepak Roy . U can also call me Deepakweb100.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning C++ with data structures and algorithms.
 <!-- - 👯 I’m looking to collaborate on ... -->
